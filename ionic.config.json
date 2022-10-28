@@ -1,0 +1,7 @@
+{
+  "name": "demorestApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
